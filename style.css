@@ -1,0 +1,78 @@
+.main_body{
+    
+    
+}
+.top_links{
+    color: gray;
+    text-decoration: none;
+    font-weight: 100;
+    
+}
+.top_links:hover{
+    color: rgb(82, 153, 253);
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.right{
+    
+    display: flex;
+    gap: 25px;  
+}
+
+.main_image{
+    width: 1350px;
+    height: auto;
+    padding-top: 170px;
+    padding-left: 240px;
+    padding-bottom: 80px;
+}
+.logo{
+    width: 150px;
+    height: 20px;
+    padding-top: 20px;
+}
+.right{
+    color: rgb(84, 82, 82);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+
+.tag_line{
+    font-family:  'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: rgb(66, 66, 66);
+    
+}
+
+.tag_line_info{
+    font-family:  'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    color: rgb(66, 66, 66);
+    padding-bottom: 20px;
+}
+
+button{
+    text-decoration: none;
+    background-color: rgb(73, 125, 227);
+    color: aliceblue;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    width: 190px;
+    font-weight: bolder;
+    font-size: large;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button:hover{
+    background-color: white;
+    border-color:rgb(73, 125, 227) ;
+    color: rgb(73, 125, 227);
+    
+
+}
